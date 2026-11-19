@@ -1,27 +1,115 @@
-# 💫 About Me:
-🎓 BCA student learning core computer science concepts<br><br>💻 Interested in Java and software development<br><br>📊 Exploring Data Analytics<br><br>🎮 Building a hybrid 2D/3D mobile game project<br><br>📚 Love simplifying complex topics for learning<br><br>🚀 Always improving my skills
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · tejasrajkumars</sub></p>
+<h1>Tejas Rajkumar.S</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejasrajkumar.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/tejas-rajkumar-ba5446348/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejasrajkumar.s@gmail.com) 
+<p><a href="https://github.com/tejasrajkumars">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/240501772?u=05c0f40b549f292da6543ec25cd1f6ce84abf839&amp;v=4" width="180" alt="Tejas Rajkumar.S GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TejasRajkumarS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TejasRajkumarS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasRajkumarS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2>What teams can evaluate quickly</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TejasRajkumarS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · HTML · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>63 contributions · 16 active days</p></td>
+</tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TejasRajkumarS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2>Proof at a glance</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=TejasRajkumarS&icon=0&color=6)](https://visitcount.itsvg.in)
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>63</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=tejasrajkumars&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240501772%3Fu%3D05c0f40b549f292da6543ec25cd1f6ce84abf839%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=tejasrajkumars&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240501772%3Fu%3D05c0f40b549f292da6543ec25cd1f6ce84abf839%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Tejas Rajkumar.S GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=tejasrajkumars&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240501772%3Fu%3D05c0f40b549f292da6543ec25cd1f6ce84abf839%26v%3D4&repos=tejasrajkumars%2FLumina-Notebook%2Ctejasrajkumars%2FAniLust%2Ctejasrajkumars%2FWheelofCrisis%2Ctejasrajkumars%2FEmpSkills&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=tejasrajkumars&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240501772%3Fu%3D05c0f40b549f292da6543ec25cd1f6ce84abf839%26v%3D4&repos=tejasrajkumars%2FLumina-Notebook%2Ctejasrajkumars%2FAniLust%2Ctejasrajkumars%2FWheelofCrisis%2Ctejasrajkumars%2FEmpSkills&v=recruiter-projects-1&mode=dark" width="100%" alt="Tejas Rajkumar.S selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/TejasRajkumarS/Lumina-Notebook">Lumina-Notebook</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/TejasRajkumarS/Lumina-Notebook">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/TejasRajkumarS/AniLust">AniLust</a></h3><p>streaming anime webapp</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/TejasRajkumarS/WheelofCrisis">WheelofCrisis</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/TejasRajkumarS/EmpSkills">EmpSkills</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=tejasrajkumars&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240501772%3Fu%3D05c0f40b549f292da6543ec25cd1f6ce84abf839%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=tejasrajkumars&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240501772%3Fu%3D05c0f40b549f292da6543ec25cd1f6ce84abf839%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Tejas Rajkumar.S technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>51% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>36% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=tejasrajkumars&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240501772%3Fu%3D05c0f40b549f292da6543ec25cd1f6ce84abf839%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tejasrajkumars&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240501772%3Fu%3D05c0f40b549f292da6543ec25cd1f6ce84abf839%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Tejas Rajkumar.S contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/tejasrajkumars">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Tejas Rajkumar.S · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
